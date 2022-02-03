@@ -1,8 +1,7 @@
 body {
   padding: 40px auto;
   background-color:brown;
-  max-width: 70%;
-  margin: 10px auto;
+  
 }
 
 h1 {
@@ -10,7 +9,8 @@ h1 {
 }
 
 .content {
-  margin:20px auto;
+  max-width: 70%;
+  margin: 10px auto;
 }
 
 
