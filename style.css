@@ -128,7 +128,7 @@ a:hover {
 
 
 .bg-img {
-    background: url("/img/bg-img.jpeg") no-repeat center center fixed;
+    background: url("bg-img.jpeg") no-repeat center center fixed;
     height: 60vh;
 }
 .wrapper-bg {
